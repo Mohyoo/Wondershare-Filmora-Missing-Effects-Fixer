@@ -1,7 +1,7 @@
 To use this script, do the following:
 
 - Collect the 'config.json' files from the different effect packs you want to install.
-  You can either extract it from the installer, or install first then located it in:
+  You can either extract it from the installer, or install first then locate it in:
   C:\ProgramData\Wondershare Filmora\Default Effects\DefaultPackage\Config.json
 
 - Put the collected JSON files beside this 'merge.py' file.
@@ -16,8 +16,9 @@ To use this script, do the following:
 
 
 
-- That's it; there is also a ready-to-use 'Config.json' file here, made using
-  the following effect packs (which should be enough for most cases):
+- That's it; there is also a ready-to-use 'Config.json' file inside the
+  'Fixer.exe' (which is just a RAR file), made using the following effect packs
+  (which should be enough for most cases):
   
 	- Agent Filmora
 	- BlockBuster 3

@@ -12,8 +12,13 @@ C:\ProgramData\Wondershare Filmora\Default Effects\DefaultPackage
 
 This file keeps getting overwritten each time a new effect pack is installed.
 
-What does this tool do is that it merges the config files of different effects pack
+What does this script do is that it merges the config files of different effects pack
 into one big config file that makes them visible to Filmora, it can also - as a side
 effect - cover other non-installed effects (but they won't appear until they are installed).
 
+The provided EXE file (a WinRAR SFX archive) contains a ready-to-use config file that
+should cover most of the missing effects, in case you can't collect config JSON files
+of other effect packs yourself.
+
 Thanks to AI.
+

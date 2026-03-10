@@ -20,7 +20,7 @@ def merge_filmora_configs_with_categories():
         print("No JSON files found.")
         return
 
-    print(f"Merging {len(json_files)} files while preserving categories...")
+    print(f"Merging {len(json_files)} files while preserving categories...\n")
 
     for file_name in json_files:
         try:
@@ -43,7 +43,7 @@ def merge_filmora_configs_with_categories():
                 print(f"Included resources from: {file_name}")
                 
         except Exception as e:
-            print(f"Skip {file_name} due to error: {e}")
+            print(f"Skipped {file_name} due to error: {e}")
 
     output_file = 'Merged_Config.json'
     with open(output_file, 'w', encoding='utf-8') as f:
@@ -51,7 +51,10 @@ def merge_filmora_configs_with_categories():
         json.dump(merged_data, f, indent=4, ensure_ascii=False)
 
     print(f"\nDone! Total unique effects: {len(merged_data['resources'])}")
-    print("The effects should now appear in their original categories.")
+    print("Output file is: " + output_file)
+    print("Rename it and move it to:")
+    print(r"C:\ProgramData\Wondershare Filmora\Default Effects\DefaultPackage\Config.json")
+    print("The effects should now all appear, and in their original categories.")
 
 if __name__ == "__main__":
     merge_filmora_configs_with_categories()

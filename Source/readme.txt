@@ -1,4 +1,4 @@
-To use this script, do the following:
+*) To use this script, do the following:
 
 - Collect the 'config.json' files from the different effect packs you want to install.
   You can either extract it from the installer, or install first then locate it in:
@@ -16,24 +16,31 @@ To use this script, do the following:
 
 
 
-- That's it; there is also a ready-to-use 'Config.json' file inside the
-  'Fixer.exe' (which is just a RAR file), made using the following effect packs
-  (which should be enough for most cases):
+*) That's it; there is also a ready-to-use 'Config.json' file inside the
+   'Fixer.exe' (which is just a RAR file), made using the following effect packs
+   (which should be enough for most cases):
   
-	- Agent Filmora
-	- BlockBuster 3
-	- BlockBuster 4
-	- BlockBuster 5
-	- Built-in Effect Pack 2018
-	- Built-in Effect Pack 2020
-	- Chromatic Filter Set
-	- Cinematic Overlay Set
-	- Futuristic Hud
-	- Geometric Set
-	- Music Expansion Set
-	- Musical Fantasy Set
-	- Neo Theme Set
-	- Neon Set
-	- SciFi Set 9
-	- Technoscience
-	- Urban Style Set
+   - 80s Retro Set
+   - Agent Filmora
+   - BlockBuster 3, 4, 5
+   - Filmora9 Built-in Effect Pack 2018, 2020
+   - Business Set
+   - Callouts Expansion Set
+   - Chromatic Filter Set
+   - Cinema
+   - Cinematic Overlay Set
+   - Futuristic Hud
+   - Geometric Set
+   - Glitter Glamour
+   - Lower Third 1, 2
+   - Music Expansion Set
+   - Musical Fantasy Set
+   - Neo Theme Set
+   - Neon Set
+   - Premium Filmstock 1, 2, 3, 4
+   - Presentation Set
+   - SciFi Set 9
+   - Technoscience
+   - Title Expansion Set
+   - Urban Style Set
+	
